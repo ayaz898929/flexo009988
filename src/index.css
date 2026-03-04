@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500;700&family=Open+Sans:wght@400;600;700&family=JetBrains+Mono:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-gold: #D4AF37;
+  --color-gold-dark: #B8860B;
+  --color-gold-light: #F9F1D0;
+
+  --font-inter: "Inter", sans-serif;
+  --font-playfair: "Playfair Display", serif;
+  --font-poppins: "Poppins", sans-serif;
+  --font-roboto: "Roboto", sans-serif;
+  --font-opensans: "Open Sans", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
